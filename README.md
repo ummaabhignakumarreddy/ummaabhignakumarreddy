@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Umma Abhignakumarreddy and I'm a Software Engineer & Developer from India.</h2>
+<h2 align="left">Hi 👋! My name is Umma Abhigna KUmar Reddy and I'm a Software Engineer & Developer from India.</h2>
 
 ## About Me
 
